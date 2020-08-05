@@ -48,7 +48,7 @@ module.exports = {
         "em-18" : '4.5em',
       },
       width: {
-        "100": "20rem",
+        "xl": "20rem",
       },
     },
   },
