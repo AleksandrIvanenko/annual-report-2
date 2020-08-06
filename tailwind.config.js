@@ -47,6 +47,20 @@ module.exports = {
         "em-12"  : "3em",
         "em-18" : '4.5em',
       },
+      minHeight: {
+        "1/4-screen": "25vh",
+        "1/2-screen": "50vh",
+        "3/5-screen": "60vh",
+        "3/4-screen": "75vh",
+        "9/10-screen": "90vh"
+      },
+      height: {
+        "1/2-screen": "50vh",
+        "1/5-screen": "20vh",
+        "1/33-screen": "15vh",
+        "1/10-screen": "10vh",
+        "9/10-screen": "90vh"
+      },
       width: {
         "xl": "20rem",
       },
